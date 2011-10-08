@@ -1,0 +1,3 @@
+# Sphinx Boilerplate
+
+With jsmath.
